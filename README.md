@@ -1,12 +1,13 @@
 # PicoChess
 Physical chessboard with the following features:
-Bluetooth connection to laptop for use with arena/fritz/etc.
-Email games in pgn after completion
-Leds to indicate move possibilities/moves of virtual opponents
-Built in CLocks
-Battery Powered 
-Easy to configure wifi
-No computer necessary to play against engines/ record human v human games
+
+  Bluetooth connection to laptop for use with arena/fritz/etc.
+  Email games in pgn after completion
+  Leds to indicate move possibilities/moves of virtual opponents
+  Built in CLocks
+  Battery Powered 
+  Easy to configure wifi
+  No computer necessary to play against engines/ record human v human games
 
 
 # Make wifi hotspot for easy wifi settings configuration: https://github.com/schollz/raspberry-pi-turnkey
