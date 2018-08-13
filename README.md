@@ -1,19 +1,21 @@
 # PicoChess
-Physical chessboard with the following features:
+looking to build a Physical chessboard with the following features:
 
-  Bluetooth connection to laptop for use with arena/fritz/etc.
+  Bluetooth connection to laptop for use with arena/fritz/etc. (hm-10 connected to arduino to emulate keyboard)
   
-  Email games in pgn after completion
+  Email games in pgn after completion (picochess does this already via settings or even easier with mailgun)
   
-  Leds to indicate move possibilities/moves of virtual opponents
+  Leds to indicate move possibilities/moves of virtual opponents (also known as a 'training mode')
   
-  Built in CLocks
+  Built in Clocks that can be adjusted via physical button or via the web server
   
-  Battery Powered 
+  Battery Powered (with always on option if plugged in) 
   
-  Easy to configure wifi
+  Easy to configure wifi (using turnkey wifi - working great)
   
   No computer necessary to play against engines/ record human v human games
+  
+  similar to this: https://www.hackster.io/lpalcu/foldable-electronic-chess-board-fbe264
 
 
 # Make wifi hotspot for easy wifi settings configuration: https://github.com/schollz/raspberry-pi-turnkey
